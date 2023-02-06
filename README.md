@@ -1,2 +1,6 @@
 # DSMud
-A console text-based multiple players game developed in C/C++.
+## Content
+[Introduction](#Introduction)
+
+## Introduction
+* DSMud is a text-based multiple players console game developed in C/C++.

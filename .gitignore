@@ -1,5 +1,9 @@
 # CMake cache
 build
+.cache
+
+# Local debug
+debug
 
 # Prerequisites
 *.d

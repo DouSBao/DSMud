@@ -1,0 +1,1 @@
+1. Chang sub directories' cmake targets from SHARED into OBJECT.

@@ -1,0 +1,12 @@
+@startjson
+{
+	"build": ["CMake out source build dest"],
+	"debug": ["Temp debug files"],
+	"etc": {
+		"cmake": ["CMake modules"],
+		"doc": ["Documents"],
+		"uml": ["Uml files"]
+	},
+	"src": ["Project source files"]
+}
+@endjson

@@ -6,6 +6,7 @@
 
 ## Directory
 * Simple project directories structure.
+
 ![project-structure](../uml/project-structure.png)
 
 ## CMake
